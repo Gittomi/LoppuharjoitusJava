@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Input fields for adding courses</h1>
+<h2><a href="index.html">Add student</a></h2>
+<h2><a href="enroll.html">Enroll student to course</a></h2>
+<h2><a href="checkenroll.html">Check course enrollments</a></h2>
+
+<form method="post" action="http://localhost:8080/addcourse">
+    <label for="courseID">CourseID:</label><br>
+    <input type="text" id="courseID" name="courseID"><br>
+    <label for="courseName">Coursename:</label><br>
+    <input type="text" id="courseName" name="courseName"><br>
+    <label for="studyPoints">studyPoints:</label><br>
+    <input type="text" id="studyPoints" name="studyPoints"><br>
+    <input type="checkbox" name="isOnlineCourse" id="isOnlineCourse" value="yes">
+    <label for="isOnlineCourse">Check for OnlineCourse</label><br>
+    <input type="submit" value="submit">
+</form>
+
+</body>
+</html>
