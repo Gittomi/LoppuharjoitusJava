@@ -7,6 +7,6 @@ It contains also backupfilesystem for courses and students, files are stored loc
 
 ### Build with
 * [Java](https://dev.java/) BackEnd
-* [HTML](https://devdocs.io/html/)FrontEnd
+* [HTML](https://devdocs.io/html/) FrontEnd
 
 
