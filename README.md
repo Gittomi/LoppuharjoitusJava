@@ -9,4 +9,7 @@ It contains also backupfilesystem for courses and students, files are stored loc
 * [Java](https://dev.java/) BackEnd
 * [HTML](https://devdocs.io/html/) FrontEnd
 
+# Author
+- Tomi Niemela
+
 
